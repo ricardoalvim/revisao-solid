@@ -1,0 +1,15 @@
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\bin\Debug\net6.0\AulasSolidFundamentos.exe
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\bin\Debug\net6.0\AulasSolidFundamentos.deps.json
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\bin\Debug\net6.0\AulasSolidFundamentos.runtimeconfig.json
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\bin\Debug\net6.0\AulasSolidFundamentos.dll
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\bin\Debug\net6.0\ref\AulasSolidFundamentos.dll
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\bin\Debug\net6.0\AulasSolidFundamentos.pdb
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\AulasSolidFundamentos.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\AulasSolidFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\AulasSolidFundamentos.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\AulasSolidFundamentos.AssemblyInfo.cs
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\AulasSolidFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\AulasSolidFundamentos.dll
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\ref\AulasSolidFundamentos.dll
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\AulasSolidFundamentos.pdb
+C:\Users\Ricardo\Documents\GitHub\revisao-solid\AulasSolidFundamentos\AulasSolidFundamentos\obj\Debug\net6.0\AulasSolidFundamentos.genruntimeconfig.cache
