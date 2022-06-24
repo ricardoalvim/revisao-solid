@@ -14,9 +14,9 @@ namespace AulasSolidFundamentos
 
         public ClienteRico(int id, string nome, string endereco)
         {
-            DomainExceptionValidation.Where(id < 1, "É necessário um identificador válido!");
-            DomainExceptionValidation.Where(string.IsNullOrEmpty(nome), "É necessário informar um nome!");
-            DomainExceptionValidation.Where(string.IsNullOrEmpty(endereco), "É necessário informar um endereço válido!");
+            DomainExceptionValidation.Where(id < 1, ErrorMessages.INVALID_ID);
+            DomainExceptionValidation.Where(string.IsNullOrEmpty(nome), ErrorMessages.INVALID_NOME);
+            DomainExceptionValidation.Where(string.IsNullOrEmpty(endereco), ErrorMessages.INVALID_ENDERECO);
 
             this.Id = id;
             this.Nome = nome;
